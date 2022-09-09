@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Computer Algorithm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Case_2.c
+Case_2.obj : error LNK2005: main already defined in Case_1.obj
+C:\Users\USER\Desktop\Computer Algorithm\x64\Debug\Computer Algorithm_C Lecture.exe : fatal error LNK1169: one or more multiply defined symbols found
