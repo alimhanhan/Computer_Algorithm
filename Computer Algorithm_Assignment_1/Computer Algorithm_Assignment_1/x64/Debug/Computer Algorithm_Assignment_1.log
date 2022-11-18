@@ -1,0 +1,4 @@
+﻿  과제 1.c
+C:\Users\USER\Desktop\Computer Algorithm_Assignment_1\Computer Algorithm_Assignment_1\과제 1.c(131,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\Desktop\Computer Algorithm_Assignment_1\Computer Algorithm_Assignment_1\과제 1.c(242,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Computer Algorithm_Assignment_1.vcxproj -> C:\Users\USER\Desktop\Computer Algorithm_Assignment_1\x64\Debug\Computer Algorithm_Assignment_1.exe
